@@ -1,6 +1,7 @@
 Omnidroid Construction using Memoized Dynamic Programming
 
 First let me give a brief description of the problem
+
 ● The main task is to calculate the total sprocket cost that requires to assemble an omnidroid
 ● The problem needs to be solved using dynamic programming, recursion and memoization which is required to efficiently find the cost of assembling parts.
 Here is the brief overview of the Algorithm
